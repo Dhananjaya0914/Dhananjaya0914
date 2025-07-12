@@ -39,9 +39,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhananjaya0914&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaya0914&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 </div>
 
