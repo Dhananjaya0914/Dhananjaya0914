@@ -42,10 +42,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaya0914&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaya0914&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 </div>
 
@@ -54,7 +50,7 @@
 <p>
 <!-- Snake Game Repo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhananjaya0914/dhananjaya0914/output/snake.svg" alt="snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
 </div> 
 </p>
 
