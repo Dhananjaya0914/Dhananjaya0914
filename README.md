@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/followers/dhananjaya0914?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-<div align="center">
+<div align="Left">
   <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
   ### 🚀 About Me
