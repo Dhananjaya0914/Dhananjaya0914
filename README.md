@@ -1,4 +1,3 @@
-<html><head><style>body{font-family:Arial,sans-serif;max-width:800px;margin:0 auto;padding:20px;}</style></head><body>
 <h1 align="center">
  <img src="./Profile.jpg"/>
 </h1>
