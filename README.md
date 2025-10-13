@@ -3,11 +3,13 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Dhananjaya</h1>
-<h3 align="center">Undergraduate Student at Eastern University, Sri Lanka</h3>
+
+<h3 align="center">B.Sc. in Applied Physics and Electronics</h3>
+<h6 align="center">Undergraduate Student at Eastern University, Sri Lanka</h6>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=IoT+Developer;Fast+Learning+Ability;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=B.Sc.+in+Applied+Physics;and+Electronics;IoT+Developer;Fast+Learning+Ability;Full+Stack+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,11 +23,11 @@
   
   ### 🚀 About Me
   
-  - 🔭 I'm currently working on **Smart Baby Cradle System with IoT technologies**
-  - 🌱 I'm currently studying at **Eastern University, Sri Lanka**  
+  - 👨‍🎓 Currently Focused On Building **basic C++ projects** to actively **level up programming skills** and deepen algorithm knowledge.
+  - 🔭 I'm Recently **completed B.Sc. final exams and am actively seeking full-time opportunities.** 
   - 💬 Self learning about **IoT, Web Development, PhotoShop and Programming**
   - 📫 How to reach me: **w.a.d.dananjaya@gmail.com**
-  - ⚡ Fun fact: **Call me as Dhana**
+  - ⚡ Fun fact: **You can reach me faster by calling me Dhana.**
   - 🎯 Goals: **Learning New Things**
   
 </div>
