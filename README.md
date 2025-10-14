@@ -42,7 +42,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhananjaya0914&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaya0914&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/Dhananjaya0914/Dhananjaya0914/main/top-langs.png" alt="Most Used Languages" width="360" />
+
 </div>
 
 ---
